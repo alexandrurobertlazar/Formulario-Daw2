@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Test",
+    "type": "Sobremesa"
+  },
+  {
+    "id": 2,
+    "name": "Macbook Pro 14 M1 Pro 10 Cores",
+    "type": "Portátil"
+  }
+]
